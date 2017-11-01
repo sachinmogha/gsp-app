@@ -1,3 +1,3 @@
-# gsp-app
-gst-ui
+# gs-app
+
 Project information file
